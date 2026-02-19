@@ -6,7 +6,7 @@
 ---
 #### 1.  Посилання на GitHub репозиторій з кодом (публічний або надано доступ викладачу)
 
-[Перейти до репозиторію](https://github.com/AnastasiiaKuksa/ui-playwright-intro.git)
+[Перейти до репозиторію](https://github.com/AnastasiiaKuksa/playwright-saucedemo.git)
 
 ---
 #### 2. Скріншот, де видно що тести проходять успішно
