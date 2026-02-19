@@ -10,4 +10,12 @@
 
 ---
 #### 2. Скріншот, де видно що тести проходять успішно
-<img width="903" height="254" alt="image" src="https://github.com/user-attachments/assets/06919441-c6c3-4569-a027-dd276340d222" />
+
+Перевірка всіх тестів: 
+<img width="902" height="320" alt="image" src="https://github.com/user-attachments/assets/0d82467b-5e75-4baa-9568-0908843b5a48" />
+
+Перевірка тестів в папці cart: 
+<img width="912" height="299" alt="image" src="https://github.com/user-attachments/assets/25da08fa-4061-4abd-bfb2-6ce24dda826d" />
+
+
+
